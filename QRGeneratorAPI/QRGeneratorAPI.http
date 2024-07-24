@@ -1,0 +1,6 @@
+@QRGeneratorAPI_HostAddress = http://localhost:5289
+
+GET {{QRGeneratorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
